@@ -178,7 +178,7 @@ O SHA1 desse commit é o hash de toda essa informação.
 
 **Tracked and Untracked**
 
-![image](./github/Pasted image 20230308180738.png)
+![image](./github/20230308180738.png)
 
 Untracked:
 arquivos que o git não tem ciência; que foram removidos do repositório; ou que foram ignorados.
